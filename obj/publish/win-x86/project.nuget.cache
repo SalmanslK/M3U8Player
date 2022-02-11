@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "F0zAY2+p/W3QTDDBwiwRCxPlDcP/5jZAK0jHayS4Igba+ov4nwM+kviyIrBzcmqxrZdFcPsToLTL+8apKoLHoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salmankhan\\source\\repos\\M3u8Player\\M3u8Player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salmankhan\\.nuget\\packages\\videolan.libvlc.windows\\3.0.16\\videolan.libvlc.windows.3.0.16.nupkg.sha512",
+    "C:\\Users\\salmankhan\\.nuget\\packages\\vlc.dotnet.core\\3.1.0\\vlc.dotnet.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\salmankhan\\.nuget\\packages\\vlc.dotnet.core.interops\\3.1.0\\vlc.dotnet.core.interops.3.1.0.nupkg.sha512",
+    "C:\\Users\\salmankhan\\.nuget\\packages\\vlc.dotnet.wpf\\3.1.0\\vlc.dotnet.wpf.3.1.0.nupkg.sha512",
+    "C:\\Users\\salmankhan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.22\\microsoft.netcore.app.runtime.win-x86.3.1.22.nupkg.sha512",
+    "C:\\Users\\salmankhan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.22\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.22.nupkg.sha512",
+    "C:\\Users\\salmankhan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.22\\microsoft.aspnetcore.app.runtime.win-x86.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

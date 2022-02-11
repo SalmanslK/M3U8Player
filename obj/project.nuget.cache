@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AgYuw+MJ/Ztns6KyM9R9oqtTykm1K66AfPznxTkoN0QUSN94ZLdkEIh0iUBESQedV1Z7YEbaccGvyvxwmypfRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salmankhan\\source\\repos\\M3u8Player\\M3u8Player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salmankhan\\.nuget\\packages\\videolan.libvlc.windows\\3.0.16\\videolan.libvlc.windows.3.0.16.nupkg.sha512",
+    "C:\\Users\\salmankhan\\.nuget\\packages\\vlc.dotnet.core\\3.1.0\\vlc.dotnet.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\salmankhan\\.nuget\\packages\\vlc.dotnet.core.interops\\3.1.0\\vlc.dotnet.core.interops.3.1.0.nupkg.sha512",
+    "C:\\Users\\salmankhan\\.nuget\\packages\\vlc.dotnet.wpf\\3.1.0\\vlc.dotnet.wpf.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\salmankhan\source\repos\M3u8Player\bin\Release\netcoreapp3.1\win-x64\publish\M3u8Player.pdb
+C:\Users\salmankhan\source\repos\M3u8Player\bin\Release\netcoreapp3.1\win-x64\publish\M3u8Player.exe
